@@ -85,6 +85,8 @@ teams:
   - name: fabric-x-block-explorer-committers
     maintainers:
       - farooqazamwasimnl
+      - liran-funaro
+      - cendhu
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
